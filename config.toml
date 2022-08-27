@@ -1,0 +1,4 @@
+baseURL = "https://brunnhilde.xyz/"
+languageCode = "en-us"
+title = "Catalina"
+theme = "hugo-theme-stack"
