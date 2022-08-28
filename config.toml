@@ -1,4 +1,4 @@
 baseURL = "https://gregarious-cannoli-94cbe7.netlify.app/"
 languageCode = "en-us"
 title = "Catalina"
-theme = "hugo-theme-stack"
+theme = "mc10c"
