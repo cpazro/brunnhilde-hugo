@@ -2,3 +2,5 @@ baseURL = "https://gregarious-cannoli-94cbe7.netlify.app/"
 languageCode = "en-us"
 title = "Catalina"
 theme = "m10c"
+avatar = /public/avatar.jpg
+
