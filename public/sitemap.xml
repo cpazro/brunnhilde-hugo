@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://gregarious-cannoli-94cbe7.netlify.app/</loc>
     <lastmod>2022-08-27T16:58:22-04:00</lastmod>
   </url><url>
@@ -14,5 +15,19 @@
     <loc>https://gregarious-cannoli-94cbe7.netlify.app/categories/</loc>
   </url><url>
     <loc>https://gregarious-cannoli-94cbe7.netlify.app/tags/</loc>
+=======
+    <loc>https://example.org/posts/my-first-post/</loc>
+    <lastmod>2022-08-27T16:58:22-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2022-08-27T16:58:22-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2022-08-27T16:58:22-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+>>>>>>> ffe16c0... first commit
   </url>
 </urlset>

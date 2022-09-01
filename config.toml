@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 baseURL = "https://example.com"
 title = "Your title"
 themesDir = "../.."
@@ -42,3 +43,9 @@ paginate = 8
     lightestColor = "#ffffff"
     primaryColor = "#57cc8a"
 
+=======
+baseURL = "https://brunnhilde.xyz/"
+languageCode = "en-us"
+title = "Catalina"
+theme = "hugo-theme-stack"
+>>>>>>> ffe16c0... first commit

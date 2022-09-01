@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<<<<<<< HEAD
     <channel>
         <title>Tags on Catalina</title>
         <link>https://gregarious-cannoli-94cbe7.netlify.app/tags/</link>
@@ -7,4 +8,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language><atom:link href="https://gregarious-cannoli-94cbe7.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
+=======
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+>>>>>>> ffe16c0... first commit
 </rss>
